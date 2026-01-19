@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+streamlit-autorefresh
+opencv-python
+qrcode[pil]
+Pillow
+numpy
+pandas
+plotly
